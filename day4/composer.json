@@ -1,0 +1,13 @@
+{
+    "name": "octfx/aoc-23-d4",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "^10.5"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Octfx\\Aoc23D4\\": "src/"
+        }
+    }
+}
